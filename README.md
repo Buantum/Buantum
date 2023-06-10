@@ -6,4 +6,5 @@ I am a PhD candidate of quantum science and technology and my research interest 
 
 3.Many-body physics and strongly correlated system；
 
-4.Open quantum system
+4.Open quantum system;
+
