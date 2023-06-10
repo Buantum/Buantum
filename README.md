@@ -1,1 +1,1 @@
-a PhD candidate of quantum science and technology
+A PhD candidate of quantum science and technology
