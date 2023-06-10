@@ -1,14 +1,14 @@
 # 随机薛定谔方程 
 ## subsection约化密度矩阵的重构
 对环境部分，采用相干态表象，满足完备性关系
-$$
+$`
 \begin{equation}
     \int d^2\alpha e^{-|\alpha|^2}\ket{\alpha}\bra{\alpha}=I
 \end{equation}
-$$
+`$
 
 对于系统与环境的初态，满足
-$$
+$`
 \begin{equation}
     \begin{aligned}
         \ket{\Phi_{tot}(t)}&\\
@@ -17,19 +17,19 @@ $$
         &=\int d^2\alpha e^{-|\alpha|^2}\ket{\varphi_{a^*}(t)}\otimes\ket{\alpha}
     \end{aligned}
 \end{equation}
-$$
+`$
 
 构造约化密度矩阵
-$$
+$`
 \begin{equation}\begin{aligned}
     \hat{\rho}_{sys}(t)&=\int d^2\alpha e^{-|\alpha|^2}\ket{\varphi_{a^*}(t)}\otimes\ket{\alpha}\int d^2\alpha e^{-|\alpha|^2}\bra{\alpha}\otimes\bra{\varphi_{a^*}}
     \\&=\int d^2\alpha e^{-|\alpha|^2}\ket{\varphi_{a^*}(t)}\bra{\varphi_{a^*}(t)}\otimes\int d^2 \alpha\ket{\alpha}\bra{\alpha}
     \\&=\int d^2\alpha e^{-|\alpha|^2}\ket{\varphi_{a^*}(t)}\bra{\varphi_{a^*}(t)}
     \\&=M_z[\ket{\varphi_{a^*}(t)}\bra{\varphi_{a^*}(t)}]\end{aligned}
 \end{equation}
-$$
+`$
 
-对于$\int d^2\alpha e^{-|\alpha|^2}$的计算，可假设$\alpha$满足高斯分布，由积分运算换为求和运算。
+对于$`\int d^2\alpha e^{-|\alpha|^2}`$的计算，可假设$`\alpha`$满足高斯分布，由积分运算换为求和运算。
 ## 系统波函数的演化方程
 对波函数进行表象变换$\ket{\phi}=e^{i\omega a^{\dagger}at}\ket{\Phi_{tot}(t)}$
 $$
