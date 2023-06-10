@@ -8,6 +8,7 @@ $`
 `$
 
 对于系统与环境的初态，满足
+
 $`
 \begin{equation}
     \begin{aligned}
@@ -20,6 +21,7 @@ $`
 `$
 
 构造约化密度矩阵
+
 $`
 \begin{equation}\begin{aligned}
     \hat{\rho}_{sys}(t)&=\int d^2\alpha e^{-|\alpha|^2}\ket{\varphi_{a^*}(t)}\otimes\ket{\alpha}\int d^2\alpha e^{-|\alpha|^2}\bra{\alpha}\otimes\bra{\varphi_{a^*}}
