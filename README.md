@@ -1,4 +1,4 @@
-I am a PhD candidate of quantum science and technology and my research interest is showed below.
+I am a PhD candidate of quantum science and technology and my research interests are showed below.
 
 1.Ultracold atoms and quantum simulation；
 
@@ -8,4 +8,4 @@ I am a PhD candidate of quantum science and technology and my research interest 
 
 4.Open quantum system;
 
-![PBS](IMG_20230407_211027.jpg)
+![PBS](IMG_20230407_211027.jpg =600x)
