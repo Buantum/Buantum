@@ -8,4 +8,4 @@ I am a PhD candidate of quantum science and technology and my research interests
 
 4.Open quantum system;
 
-![PBS](IMG_20230407_211027.jpg =600x)
+![PBS](IMG_20230407_211027.jpg =300x)
