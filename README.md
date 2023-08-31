@@ -6,4 +6,4 @@ I am a PhD candidate of quantum science and technology and my research interests
 
 3.Many-body physics and strongly correlated system；
 
-![PBS](IMG_20230407_211027.jpg =300x)
+![PBS](IMG_20230407_211027.jpg)
